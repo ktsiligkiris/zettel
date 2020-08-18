@@ -1,5 +1,6 @@
 #+TITLE: Losing best people
 
 When we are in a learned helplessness situation, the organization is
-losing its best people (except for thos that feel like they can't
+losing its best people (except for those that feel like they can't
 leave, because of a sense of duty or obligation)
+[[2020-08-18-1722]] Management by objective can be detrimental
