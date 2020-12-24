@@ -4,7 +4,7 @@
 As my friend Natassa once said, it's people that write stuff, it's not
 tools. And she was right
 
-[[2020-07-31-2209]] The sudosciense of Business Administration
-[[2020-08-09-1501]] Scripture is always better than Messiahs
-[[2020-08-09-1503]] Always weigh the benefit of a meeting
-[[2020-08-17-2031]] Learned helplessness
+§2020-07-31-2209 The sudosciense of Business Administration
+§2020-08-09-1501 Scripture is always better than Messiahs
+§2020-08-09-1503 Always weigh the benefit of a meeting
+§2020-08-17-2031 Learned helplessness
