@@ -1,0 +1,24 @@
+#+title: org roam cheat sheet
+
+* Create a new entry
+  - M-x org-roam-find-file
+  - Select a note to open or give a title to create a new one
+  - Use C-c C-c to finish note capture
+
+  You can also use M-x org-roam-capture
+
+* Insert a link
+  You can use M-x org-roam-insert to insert a link. A list of
+  available notes is given and if you give a title of a none existent
+  note, then a new note is created and the link to the note is added.
+
+  Here is a link to a note: [[file:2020-08-17-2033 Losing best people.org][Losing best people]]
+
+  I think initially that in my mac, I am using paragraph marks to
+  signify links to other org-roam files (unless this is zetteldeft and
+  I don't remember, who knows). I will replace all links to existing
+  org-roam files.
+
+* See backlinks
+  You can bring up a buffer with backlinks to previous articles with
+  M-x org-roam!!!
