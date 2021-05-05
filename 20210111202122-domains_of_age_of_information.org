@@ -1,0 +1,7 @@
+#+title: Domains of Age of Information
+#+roam_tags AoI domain CSI energy harvesting scheduling
+#+roam_key cite:KoPA17
+
+There are three domains in which AoI has been treated as a tool:
+Channel State Information (CSI) estimation, energy harvesting, and
+scheduling.

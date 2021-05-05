@@ -1,0 +1,13 @@
+#+title: Introduction of Age of Information
+#+roam_tags AoI knowledge freshness remote
+#+roam_key cite:KoPA17
+
+Age of information (AoI) was introduced in the early 2010s as a notion
+to characterize the freshness of the knowledge a system has about a
+process observed remotely.
+
+The concept of Age of Information was introduced to quantify the
+freshness of the knowledge we have about the status of a remote
+system.
+
+[[file:20210111201102-goal_of_age_of_information.org][Goal of Age of Information]]

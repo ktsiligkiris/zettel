@@ -1,0 +1,16 @@
+#+title: Minimizing Age of Information in Vehicular Networks
+#+roam_tags AoI Vehicular Networks
+#+roam_key cite:KaGRK11
+
+This paper deals with the problems of AoI in networks that consist of
+a great number of nodes, which can lead to congestion and undesirable
+levels of packet collisions.
+
+Conclusions:
+- Introduction of system age metric.
+- Minimization of age cannot be achieved by maximization of throughput.
+- A simple adaptation of CW that chooses to either increase or
+  decrease CW size to reduce the system age is unsuitable.
+- The above observations and the presence of a unique broadcast period
+  at which system age is minimized motivated the design of an
+  application layer rate control algorithm.
