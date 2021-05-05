@@ -1,4 +1,4 @@
-# This is it
+* This is it
 
 Basically, this is an initial attempt to get my life organized with a
 zettelkasten, in a similar way as it was organized by this German
