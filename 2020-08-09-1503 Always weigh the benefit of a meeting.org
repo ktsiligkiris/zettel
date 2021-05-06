@@ -1,6 +1,4 @@
 #+TITLE: Always weigh the benefit of a meeting
-# Backlink: §2020-07-31-2209 The sudosciense of Business Administration
-# Backlink: §2020-07-31-2203 People over processes
 
 If you're calling a meeting, the first thing you should consider is
 the cost versus the benefit of holding the meeting.
