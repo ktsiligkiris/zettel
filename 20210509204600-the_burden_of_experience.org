@@ -1,0 +1,5 @@
+#+title: The burden of experience
+#+roam_key: Algorithms to live by
+
+As Harvard's Daniel Gilbert puts it, our future selves often "pay good
+money to remove the tattoos that we paid good money to get."

@@ -1,0 +1,21 @@
+#+title: The Upside of Heuristics
+#+roam_key: Algorithms to live by
+
+The economist Harry Markowitz won the 1990 Nobel Prize in Economics
+for developing modern portfolio theory: his groundbreaking
+"mean-variance portfolio optimization" showed how an investor could
+make an optimal allocation among various funds and assets to maximize
+returns at a given level of risk. So when it came time to invest his
+own retirement savings, it seems like Markowitz should have been the
+one person perfectly equipped for the job. What did he decide to do?
+
+#+BEGIN_QUOTE
+I should have computed the historical covariances of the asset classes
+and drawn an efficient frontier. Instead, I visualized my grief if the
+stock market went way up and I wasn't in it - or if it went way down
+and I was completely in it. My intention was to minimize my future
+regret. So I split my contribution fifty-fifty between bonds and equities.
+#+END_QUOTE
+
+[[file:20210509210438-human_irrationality.org][Human irrationality]]
+trachAmawuch0b1kAcR2

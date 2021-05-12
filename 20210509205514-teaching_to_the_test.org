@@ -1,0 +1,8 @@
+#+title: Teaching to the test
+#+roam_key: Algorithms to live by
+
+If a school's standardized scores rose while its "non-standardized"
+performance moved in the opposite direction, administrators would have
+a clear warning sign that "teaching to the test" had set in, and the
+pupil's skills were beginning to overfit the mechanics of the test
+itself.

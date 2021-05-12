@@ -5,4 +5,5 @@ When we are in a learned helplessness situation, the organization is
 losing its best people (except for those that feel like they can't
 leave, because of a sense of duty or obligation)
 
-[[file:2020-08-18-1722 Management by objective can be detrimental.org][Management by objective can be detrimental]]
+1) [[file:2020-08-18-1722 Management by objective can be detrimental.org][Management by objective can be detrimental]]
+2) [[file:20210509203820-old_vs_young.org][Old vs young]]

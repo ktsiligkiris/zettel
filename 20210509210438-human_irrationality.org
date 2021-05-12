@@ -1,0 +1,10 @@
+#+title: Human irrationality
+#+roam_key: Algorithms to live by
+
+The story of the Nobel Prize winner and his investment strategy could
+be presented as an example of human irrationality: faced with the
+complexity of real life, he abandoned the rational model and followed
+a simple heuristic.
+
+But it's precisely because of the complexity of real life that a
+simple heuristic might in fact be the rational solution.
