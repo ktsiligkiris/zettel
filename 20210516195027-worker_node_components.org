@@ -1,0 +1,5 @@
+#+title: Worker Node Components
+
++ Kubelet
++ Container runtime interface
++ kube-proxy

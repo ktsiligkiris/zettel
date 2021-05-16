@@ -1,0 +1,6 @@
+#+title: Kubernetes Add-ons
+
+- DNS
+- Container resource monitoring
+- Web UI
+- Cluster-level logging

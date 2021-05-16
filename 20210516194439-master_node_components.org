@@ -1,0 +1,14 @@
+#+title: Master Node Components
+                 ------------------kube-proxy
+                 |                      V
+etcd <- api-server                   iptable
+      /        \  \--------------------------------Kubelet
+     /          \                                    V
+Scheduler    Controller-manager                    Docker
+                                                     ^
+*Control plane*                                      |
+                                                   Docker
+                                                   Hub/GCR
+
+- [[file:20210516195027-worker_node_components.org][Worker Node Components]]
+- [[file:20210516195158-kubernetes_add_ons.org][Kubernetes Add-ons]]
