@@ -1,0 +1,5 @@
+#+title: Decouple monolith
+
+Add services layer/facade
+
+Add service mediation layer

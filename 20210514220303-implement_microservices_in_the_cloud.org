@@ -1,0 +1,5 @@
+#+title: Implement microservices in the cloud
+
+- Migrate data to cloud
+- Run parallel in the cloud
+- Swing channels to API gateway

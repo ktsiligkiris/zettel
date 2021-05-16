@@ -1,0 +1,5 @@
+#+title: Develop local microservices
+
+- Identify microservices
+- Develop interface definitions
+- Develop microservices

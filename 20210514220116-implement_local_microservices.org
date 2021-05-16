@@ -1,0 +1,5 @@
+#+title: Implement local microservices
+
+- Migrate data
+- Testing/parallel run
+- Swing channels to microservices

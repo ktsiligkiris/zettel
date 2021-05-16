@@ -1,0 +1,11 @@
+#+title: Transform a monolith to microservices
+
+These are the phases you have to go through in transforming a
+monolithic application to microservices
+
+1. [[file:20210514215947-decouple_monolith.org][Decouple monolith]]
+2. [[file:20210514220025-develop_local_microservices.org][Develop local microservices]]
+3. [[file:20210514220116-implement_local_microservices.org][Implement local microservices]]
+4. [[file:20210514220159-deploy_microservices_to_cloud.org][Deploy microservices to cloud]]
+5. [[file:20210514220303-implement_microservices_in_the_cloud.org][Implement microservices in the cloud]]
+6. Decommision monolith (unplug it)
