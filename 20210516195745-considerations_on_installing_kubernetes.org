@@ -1,0 +1,12 @@
+#+title: Considerations on installing Kubernetes
+
+- Compute instances
+- CPUs
+- Storage volumes
+- In-use IP addresses
+- Packet filtering rule sets
+
+Also
+- Number of load balancers
+- Network subnets
+- Log streams
