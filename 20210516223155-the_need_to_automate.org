@@ -1,0 +1,5 @@
+#+title: The need to automate
+
+We engineers automate so that we can focus on the fun stuff - and the
+fun stuff is the work that uses most of your brain, and it's not
+usually something you can do for hours and hours, day after day.
