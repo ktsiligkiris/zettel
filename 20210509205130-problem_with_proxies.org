@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       328494FC-800D-416C-96A1-D94C6E336209
+:ROAM_REFS: by live to Algorithms
+:END:
 #+title: Problem with proxies
-#+roam_key: Algorithms to live by
 
 As we have seen, the use of proxy metrics - taste as a proxy for
 nutrition, number of cases solved as a proxy for investigator
@@ -7,4 +10,4 @@ diligence - can also lead to overfitting. In these cases, we'll need
 to cross-validate the primary performance measure we're using against
 other possible measures.
 
-1. [[file:20210509205514-teaching_to_the_test.org][Teaching to the test]]
+1. [[id:145459AD-F723-45D1-A393-1AB077797895][Teaching to the test]]

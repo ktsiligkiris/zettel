@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       035E4D6B-A735-4A9D-8A9D-A7780C9D1BFA
+:ROAM_REFS: by live to Algorithms
+:END:
 #+title: The burden of experience
-#+roam_key: Algorithms to live by
 
 As Harvard's Daniel Gilbert puts it, our future selves often "pay good
 money to remove the tattoos that we paid good money to get."

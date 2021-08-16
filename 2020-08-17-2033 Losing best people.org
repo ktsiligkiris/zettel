@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       AC2204B2-329A-4EC9-A9B7-DDED92A73C53
+:END:
 #+TITLE: Losing best people
 # Backlink: §2020-08-17-2031 Learned helplessness
 
@@ -5,8 +8,8 @@ When we are in a learned helplessness situation, the organization is
 losing its best people (except for those that feel like they can't
 leave, because of a sense of duty or obligation)
 
-1) [[file:2020-08-18-1722 Management by objective can be detrimental.org][Management by objective can be detrimental]]
-2) [[file:20210509203820-old_vs_young.org][Old vs young]]
-3) [[file:20210516221238-keep_employees_happy.org][Keep employees happy]]
-4) [[file:20210516223155-the_need_to_automate.org][The need to automate]]
-5) [[file:20210516223632-managing_up.org][Managing up]]
+1) [[id:A9BCD8E5-D7CC-4932-9831-44B8005D1755][Management by objective can be detrimental]]
+2) [[id:E9D8546F-42B6-486F-9F73-C3F7E82240EF][Old vs young]]
+3) [[id:9E1DBDAB-F894-4006-B4F4-29FFF5E8996B][Keep employees happy]]
+4) [[id:A40C7189-768B-4575-8A37-E4B66D0447E7][The need to automate]]
+5) [[id:9E92648D-D1A2-44FB-8608-DA05A007359E][Managing up]]

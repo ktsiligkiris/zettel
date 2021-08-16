@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       F552E828-7576-4506-B2EC-28C6CCE03F66
+:END:
 #+TITLE: The sudosciense of Business Administration
 # Backlink: §2020-07-31-2203 People over processes
 
 It has become evident to me that Business Administration is based on
 hearsay and unsubstanciated anecdotal evidence.
 
-[[file:2020-08-09-1503 Always weigh the benefit of a meeting.org][Always weigh the benefit of a meeting]]
+[[id:56992760-8C4D-4638-9E32-DF551A038030][Always weigh the benefit of a meeting]]

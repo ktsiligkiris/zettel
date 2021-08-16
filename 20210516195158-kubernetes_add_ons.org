@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       17890783-ACC9-4E5B-A9B6-3A09AAFB32A7
+:END:
 #+title: Kubernetes Add-ons
 
 - DNS

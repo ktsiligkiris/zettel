@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       A9BCD8E5-D7CC-4932-9831-44B8005D1755
+:END:
 #+TITLE: Management by objective can be detrimental
 
 When the organization is managing by objective, there are cases where
 her people may feel like mice trapped in a maze.
 
-1. [[file:20210509205130-problem_with_proxies.org][Problem with proxies]]
+1. [[id:328494FC-800D-416C-96A1-D94C6E336209][Problem with proxies]]

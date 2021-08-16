@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       94042E6C-144C-4DAF-97F8-271AFF1E7EE6
+:ROAM_REFS: by live to Algorithms
+:END:
 #+title: The Upside of Heuristics
-#+roam_key: Algorithms to live by
 
 The economist Harry Markowitz won the 1990 Nobel Prize in Economics
 for developing modern portfolio theory: his groundbreaking
@@ -17,5 +20,5 @@ and I was completely in it. My intention was to minimize my future
 regret. So I split my contribution fifty-fifty between bonds and equities.
 #+END_QUOTE
 
-[[file:20210509210438-human_irrationality.org][Human irrationality]]
+[[id:23BA5EE5-4904-4E45-9790-5D8EA667BCDF][Human irrationality]]
 trachAmawuch0b1kAcR2

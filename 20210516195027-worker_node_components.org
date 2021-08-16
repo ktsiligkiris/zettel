@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       95CB8539-1BE9-4276-8934-34E7C853799E
+:END:
 #+title: Worker Node Components
 
 + Kubelet

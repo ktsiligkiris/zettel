@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6E25ADB1-35EE-48D4-84F4-2410E9A7A6BB
+:END:
 #+title: Master Node Components
                  ------------------kube-proxy
                  |                      V
@@ -10,5 +13,5 @@ Scheduler    Controller-manager                    Docker
                                                    Docker
                                                    Hub/GCR
 
-- [[file:20210516195027-worker_node_components.org][Worker Node Components]]
-- [[file:20210516195158-kubernetes_add_ons.org][Kubernetes Add-ons]]
+- [[id:95CB8539-1BE9-4276-8934-34E7C853799E][Worker Node Components]]
+- [[id:17890783-ACC9-4E5B-A9B6-3A09AAFB32A7][Kubernetes Add-ons]]

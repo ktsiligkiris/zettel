@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       A40C7189-768B-4575-8A37-E4B66D0447E7
+:END:
 #+title: The need to automate
 
 We engineers automate so that we can focus on the fun stuff - and the

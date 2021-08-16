@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       0D9C50D3-449B-4AD4-84A8-6F35DB211EA2
+:END:
 #+title: Decouple monolith
 
 Add services layer/facade

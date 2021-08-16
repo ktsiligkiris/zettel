@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       19480105-1789-4A55-8716-A3E0104CDAE2
+:END:
 #+title: Implement local microservices
 
 - Migrate data

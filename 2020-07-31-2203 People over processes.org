@@ -1,10 +1,13 @@
+:PROPERTIES:
+:ID:       C82B6207-65E7-457F-BFB7-24670B0EDBA2
+:END:
 #+TITLE: People over processes
 # Tags #People #Processes #Automation #Agile
 
 As my friend Natassa once said, it's people that write stuff, it's not
 tools. And she was right
 
-1) [[file:2020-07-31-2209 The sudosciense of Business Administration.org][The sudosciense of Business Administration]]
-2) [[file:2020-08-09-1501 Scripture is always better than Messiahs.org][Scripture is always better than Messiahs]]
-3) [[file:2020-08-09-1503 Always weigh the benefit of a meeting.org][Always weigh the benefit of a meeting]]
-4) [[file:2020-08-17-2031 Learned helplessness.org][Learned helplessness]]
+1) [[id:F552E828-7576-4506-B2EC-28C6CCE03F66][The sudosciense of Business Administration]]
+2) [[id:75C4C440-5346-410D-B6BB-95C1EA01BEF9][Scripture is always better than Messiahs]]
+3) [[id:56992760-8C4D-4638-9E32-DF551A038030][Always weigh the benefit of a meeting]]
+4) [[id:38A5EFC4-21CC-469D-81C2-59C77E19C432][Learned helplessness]]

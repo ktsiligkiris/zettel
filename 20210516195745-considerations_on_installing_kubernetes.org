@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ADA82A18-D9A5-4828-A067-317E87D0BB76
+:END:
 #+title: Considerations on installing Kubernetes
 
 - Compute instances

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       378D341F-6C64-4E33-9673-4A906F503ABD
+:END:
 #+title: org roam cheat sheet
 
 * Create a new entry
@@ -12,7 +15,7 @@
   available notes is given and if you give a title of a none existent
   note, then a new note is created and the link to the note is added.
 
-  Here is a link to a note: [[file:2020-08-17-2033 Losing best people.org][Losing best people]]
+  Here is a link to a note: [[id:AC2204B2-329A-4EC9-A9B7-DDED92A73C53][Losing best people]]
 
   I think initially that in my mac, I am using paragraph marks to
   signify links to other org-roam files (unless this is zetteldeft and

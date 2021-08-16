@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       EB2BBF04-689E-47B4-ACD7-AEFF7C6890A2
+:END:
 #+title: Goal of Age of Information
 #+roam_tags AoI goal estimation prediction vehicular networks
 #+roam_key cite:KoPA17
@@ -9,4 +12,4 @@ networks and information caching, to name a few.
 AoI has spawned relevant performance metrics that are more tractable
 such as the Peak Age of Information or the Cost of Update Delay
 
-[[file:20210111202122-domains_of_age_of_information.org][Domains of Age of Information]]
+[[id:1329FD0B-D563-4606-9ED9-18449945FC49][Domains of Age of Information]]

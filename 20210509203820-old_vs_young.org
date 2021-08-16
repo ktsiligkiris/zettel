@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       E9D8546F-42B6-486F-9F73-C3F7E82240EF
+:ROAM_REFS: by live to Algorithms
+:END:
 #+title: Old vs young
-#+roam_key: Algorithms to live by
 
 The old can mock the young for their speed: "It's because you don't
 know anything yet!"
 
-1) [[file:20210509204600-the_burden_of_experience.org][The burden of experience]]
+1) [[id:035E4D6B-A735-4A9D-8A9D-A7780C9D1BFA][The burden of experience]]

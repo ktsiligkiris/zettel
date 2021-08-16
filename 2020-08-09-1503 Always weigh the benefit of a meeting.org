@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       56992760-8C4D-4638-9E32-DF551A038030
+:END:
 #+TITLE: Always weigh the benefit of a meeting
 
 If you're calling a meeting, the first thing you should consider is

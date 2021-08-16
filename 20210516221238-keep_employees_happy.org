@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       9E1DBDAB-F894-4006-B4F4-29FFF5E8996B
+:END:
 #+title: Keep employees happy
 
 The manager is also responsible for keeping her team happy and

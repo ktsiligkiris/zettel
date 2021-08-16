@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       DF455C2D-2470-4F38-B2E6-1AF6894647A1
+:END:
 #+title: Develop local microservices
 
 - Identify microservices

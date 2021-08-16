@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4CE1F7B4-30FF-453C-A3A3-8AF2F60AF93E
+:END:
 #+title: Minimizing Age of Information in Vehicular Networks
 #+roam_tags AoI Vehicular Networks
 #+roam_key cite:KaGRK11

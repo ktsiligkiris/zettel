@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       9E92648D-D1A2-44FB-8608-DA05A007359E
+:END:
 #+title: Managing up
 
 Some people are great at managing up and hiding problems in their

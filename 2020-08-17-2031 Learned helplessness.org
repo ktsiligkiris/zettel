@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       38A5EFC4-21CC-469D-81C2-59C77E19C432
+:END:
 #+TITLE: Learned helplessness
 # Backlink: §2020-07-31-2203 People over processes
 
@@ -5,4 +8,4 @@ The conditions of learned helplessness are characterized by the fact
 that people become unwilling  or unable to act in a way that avoids
 the same problem in the future.
 
-[[file:2020-08-17-2033 Losing best people.org][Losing best people]]
+[[id:AC2204B2-329A-4EC9-A9B7-DDED92A73C53][Losing best people]]

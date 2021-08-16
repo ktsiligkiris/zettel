@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       23BA5EE5-4904-4E45-9790-5D8EA667BCDF
+:ROAM_REFS: by live to Algorithms
+:END:
 #+title: Human irrationality
-#+roam_key: Algorithms to live by
 
 The story of the Nobel Prize winner and his investment strategy could
 be presented as an example of human irrationality: faced with the

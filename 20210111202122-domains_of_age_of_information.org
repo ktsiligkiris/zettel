@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       1329FD0B-D563-4606-9ED9-18449945FC49
+:END:
 #+title: Domains of Age of Information
 #+roam_tags AoI domain CSI energy harvesting scheduling
 #+roam_key cite:KoPA17

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       AFF92EF8-DCB2-404B-841E-18CC599D1753
+:END:
 #+title: Deploy microservices to cloud
 
 - Implement API gateway
