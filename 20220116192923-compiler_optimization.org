@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       C09CA0A3-8D9E-423E-93F1-75136E99C22E
+:END:
+#+title: compiler optimization
+
+Some techniques that compilers use for code optimization are:
+
+[[id:8BEC4F53-EB36-416E-9FD0-01F6F7967D1E][constant propagation]]
+[[id:6D1CC0F7-C885-4855-A583-12FCC0D91F2E][common subexpression elimination]]
+[[id:D39960D7-B89B-4A90-8628-81AF1EADD257][loop invariant code motion]]
+[[id:B67E8568-1E70-4AF1-A54D-66FDFF438CB7][global value numbering]]
+[[id:4A1F0AEF-968B-4D88-A5FC-1248CB4543EF][strength reduction]]
+[[id:EBDB9D52-2B64-439A-AC24-D67EA446CC3C][scalar replacement of aggregates]]
+[[id:1C214AEB-54D7-4E5E-AC07-FEE78E2E1F34][dead code elimination]]
+[[id:FAF8F341-9238-4BE4-B625-E22BD15FB92B][loop unrolling]]

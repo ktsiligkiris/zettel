@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C551794F-CBED-4070-8D8B-BC544A0893E1
+:END:
+#+title: syntax-directed translation
+In short, you associate an action with each piece of the grammar,
+usually one that generates output code. Then, whenever the parser
+matches that chuck of syntax, it executes the action, building up the
+target code one rule at a time.

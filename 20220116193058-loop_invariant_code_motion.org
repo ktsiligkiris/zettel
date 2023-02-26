@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       D39960D7-B89B-4A90-8628-81AF1EADD257
+:END:
+#+title: loop invariant code motion

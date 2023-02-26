@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       EBDB9D52-2B64-439A-AC24-D67EA446CC3C
+:END:
+#+title: scalar replacement of aggregates

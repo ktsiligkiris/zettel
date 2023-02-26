@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       315C0E27-4AB1-4BC8-97D1-AA4B93E3A65B
+:END:
+#+title: three-address code

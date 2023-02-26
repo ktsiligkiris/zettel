@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c6f7ee9f-55e8-4722-bf5d-029c7e41d547
+:END:
+#+title: second order system
+
+A second order system is a system where the knowledge of the system
+affects the system itself.
+
+This is not a precise definition and maybe the term is not correct
+either, so I need to do some digging around this first.

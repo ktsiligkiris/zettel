@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       232F175F-0DA9-4EA5-ABA6-A8C39F7A6ABF
+:END:
+#+title: compiler implementation
+Compiler implementation for single-pass compilers have a structured
+technique called [[id:C551794F-CBED-4070-8D8B-BC544A0893E1][syntax-directed translation]].

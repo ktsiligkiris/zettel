@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       C23B6C52-D71D-4883-A890-B2872ECBBBDE
+:END:
+#+title: static single-assignment

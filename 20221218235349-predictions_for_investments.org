@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       372d293d-82ec-4f1e-a018-52ceb9816497
+:END:
+#+title: Predictions for investments
+
+The problem with predicting the future for profitable investments, is
+that the investment environment is a [[id:c6f7ee9f-55e8-4722-bf5d-029c7e41d547][second order system]].
+
+Mathematical models of stock market behaviour (and economic behaviour
+in general) are also unreliable in predicting future behaviour. Among
+other reasons, this is because economic events may span several years,
+and the world is changing over a similar time frame, thus invalidating
+the relevance of past observations to the present. Thus there are an
+extremely small number (of the order of 1) of relevant past data
+points from which to project the future. In addition, it is generally
+believed that stock market prices already take into account all the
+information available to predict the future, and subsequent movements
+must therefore be the result of unforeseen events. Consequently, it is
+extremely difficult for a stock investor to anticipate or predict a
+stock market boom, or a stock market crash. In contrast to predicting
+the actual stock return, forecasting of broad economic trends tends to
+have better accuracy. Such analysis is provided by both non-profit
+groups as well as for-profit private institutions.

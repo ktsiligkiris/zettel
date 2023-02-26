@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       B67E8568-1E70-4AF1-A54D-66FDFF438CB7
+:END:
+#+title: global value numbering

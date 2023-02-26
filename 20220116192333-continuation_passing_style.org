@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       009F0B1A-14D7-4498-8FB8-AAAD0365F1A2
+:END:
+#+title: continuation-passing style

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       D71F25D9-BC95-4044-9D01-7D37F9A0BB5E
+:END:
+#+title: Intermediate representation styles
+
+There are a few well-established styles of IRs out ther. Some of them
+are:
+
+[[id:84A4246E-457A-418E-9FB9-1586B4D002F4][control flow graph]]
+[[id:C23B6C52-D71D-4883-A890-B2872ECBBBDE][static single-assignment]]
+[[id:009F0B1A-14D7-4498-8FB8-AAAD0365F1A2][continuation-passing style]]
+[[id:315C0E27-4AB1-4BC8-97D1-AA4B93E3A65B][three-address code]]
+
+Some IR implementations are:
+
+[[id:500CC2B3-1971-4E99-82C8-3F00011E6AF3][GIMPLE]]
+[[id:840AE478-26C6-4B65-9845-EBF0C164BAEF][RTL]]
