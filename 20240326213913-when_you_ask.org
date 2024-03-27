@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       A2BDAF9A-ED99-4B1B-9FB0-66B59A9818D0
+:END:
+#+title: When you ask
+
+- Choose your forum carefully.
+- Use meaningful, specific subject headers
+- Make it easy to reply.
+- Write in clear, grammatical, correctly-spelled language
+- Send questions in accessible, standard formats
+- Be precise and informative about your problem
+- Don't rush to claim that you have found a bug
+- Describe the problem's symptoms, not your guesses
+- Describe your problem's symptoms in chronological order
+- Courtesy never hurts, and sometimes helps

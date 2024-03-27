@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       4DD4DFCD-6FF7-478A-86A6-F4A03AA27515
+:END:
+#+title: How to interpret answers
+
+- RTFM and STFW
+  There is an ancient hallowed tradition: if you get a reply that
+  reads "RTFM", the person who sent it thinks you should have Read the
+  Fucking Manual". He or she is almost certainly right. Go and read
+  it.
+- If you don't understand
+  Do not immediately bounce back a demand for clarification.
+- Dealing with rudeness
+  Much of what looks like rudeness in hacker circles is not intended
+  to give offense. Rather it's the product of direct,
+  cut-through-the-bullshit communication.

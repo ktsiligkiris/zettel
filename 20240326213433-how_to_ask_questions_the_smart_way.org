@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       09FF6385-DCF8-4AB8-9FD4-C526F499A426
+:END:
+#+title: How to ask questions the smart way
+
+source: [[http://www.catb.org/esr/faqs/smart-questions.html#classic][How to Ask Questions The Smart Way]]
+
+[[id:4BE71F5C-CC7A-42D1-B01F-0A6197501CF2][Before you ask]]
+[[id:A2BDAF9A-ED99-4B1B-9FB0-66B59A9818D0][When you ask]]
+[[id:4DD4DFCD-6FF7-478A-86A6-F4A03AA27515][How to interpret answers]]
